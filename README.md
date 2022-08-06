@@ -5,5 +5,5 @@ This is a Machine Learning project work where I developed a model which can pred
 
 How to Run the project
 Step-1: Download the zip file 
-Extract the ZIP and open it.
-Go to file location and install requirements.txt
+Step-2: Extract the ZIP and open it.
+Step-3: Go to file location and install requirements.txt
