@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+plotly
+jupyterthemes
+seaborn
+--upgrade pip
+xgboost
